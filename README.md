@@ -6,6 +6,7 @@ Também disponibilizo os prompts utilizados durante o desenvolvimento, garantind
 
 Este material é destinado exclusivamente para fins educativos e pode conter erros ou inconsistências.
 
-📘 Ebook incluído no repositório,
+📘 Ebook incluído no repositório
+
 💬 Prompts utilizados na criação
 
